@@ -1,3 +1,9 @@
 python-dotenv
 pandas
 numpy
+pymongo
+certifi
+
+
+
+##-e . ##use this at last of project to create final packages 
